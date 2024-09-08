@@ -15,6 +15,8 @@
     flex-direction: column;
     background-color: white;
     padding: 40px;
+    box-shadow: 2px 2px 2px 2px rgb(39, 177, 39);
+    
 }
 .container form input{
     display: flex;
@@ -31,7 +33,7 @@
 .container form button{
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 70%;
     height: 40px;
     margin: 10px;
     border:none;
